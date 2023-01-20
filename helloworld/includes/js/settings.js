@@ -1,0 +1,5 @@
+
+
+(function($){
+    //for js use
+})
